@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Beleg2021_Framework">
+      <HintPath>lib\Beleg2021_Framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
